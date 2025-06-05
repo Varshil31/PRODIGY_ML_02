@@ -1,4 +1,4 @@
-# PRODIGY_ML_02
+# Customer Segmentation Using K-Means Clustering
 Customer Segmentation using K-Means Clustering
 This project focuses on customer segmentation using K-Means Clustering. It is a classic machine learning task where unsupervised learning techniques are applied to identify distinct groups within a customer dataset based on purchasing behavior and demographic data.
 
